@@ -97,4 +97,4 @@ fi
 #if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
 #    . /etc/bash_completion
 #fi
-deersay "welcome to DeerPi for Riscv64"
+deersay "welcome to DeerPi for Arm"

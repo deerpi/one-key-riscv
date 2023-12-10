@@ -1,5 +1,5 @@
 #!/bin/bash
-FS="riscv64"
+FS="arm"
 sudo umount $FS/dev/pts
 sudo umount $FS/dev
 sudo umount $FS/proc
