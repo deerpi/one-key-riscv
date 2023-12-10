@@ -21,7 +21,3 @@ sudo cp deersay "$FS/usr/bin"
 sudo cp .bashrc "$FS/root"
 
 bash mount.sh "$FS"
-
-deersay "welcome to DeerPi for riscv64"
-
-
