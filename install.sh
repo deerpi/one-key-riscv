@@ -1,5 +1,7 @@
 #!/usr/bin/sh
 
+sudo apt install qemu-user-static
+
 ROOT_FS="ubuntu-base-23.10-base-riscv64.tar.gz"
 ROOT_FS_DL="https://cdimage.ubuntu.com/ubuntu-base/releases/23.10/release/$ROOT_FS"
 FS="riscv64"
